@@ -17,7 +17,7 @@ using System.Windows.Shapes;
 namespace ControladorDePedidos.WPF
 {
     /// <summary>
-    /// Interaction logic for FormCadastroDeMarca.xaml
+    /// Teste de comit Interaction logic for FormCadastroDeMarca.xaml
     /// </summary>
     public partial class FormCadastroDeMarca : Window
     {
